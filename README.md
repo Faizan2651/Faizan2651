@@ -79,12 +79,11 @@
 - ✅ **Cyclos Website – Manual Testing Project** (JIRA, Excel)
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Faizan2651&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Faizan2651&layout=compact&theme=radical" height="165"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan2651&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan2651&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan2651&theme=radical)
+
 
 
 
