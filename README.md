@@ -78,13 +78,6 @@
 - 🦠 **COVID-19 Data Analysis & Visualization** (SQL, Power BI, Python)
 - ✅ **Cyclos Website – Manual Testing Project** (JIRA, Excel)
 
----
-## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan2651&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan2651&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan2651&theme=radical)
-
-
 
 
 ---
