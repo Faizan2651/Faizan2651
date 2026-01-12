@@ -82,16 +82,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan2651&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan2651&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan2651&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan2651&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Faizan2651&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Faizan2651&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
